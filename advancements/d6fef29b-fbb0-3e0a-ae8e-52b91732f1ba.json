@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2017-07-06 15:55:58 +0900",
+      "deep_ocean": "2017-07-06 15:56:36 +0900",
+      "beaches": "2017-07-06 15:56:24 +0900",
+      "river": "2017-07-06 15:56:35 +0900"
+    },
+    "done": false
+  }
+}
